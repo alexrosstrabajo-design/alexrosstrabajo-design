@@ -100,6 +100,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alexrosstrabajo-design/alexrosstrabajo-design/output/snake.svg" alt="Snake animation" />
+<img alt="pacman contribution graph" src="./pacman-contributions.svg" />
 
 ###
