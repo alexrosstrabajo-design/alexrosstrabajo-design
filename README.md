@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">My name is Alexander Ross and I'm a Frontend Developer & Cybersecurity enthusiast, from Santo Domingo, Dominican Republic 🇩🇴
-</p>
+<p align="left">My name is Alexander Ross and I'm a Frontend Developer & Cybersecurity enthusiast, from Santo Domingo, Dominican Republic 🇩🇴</p>
 
 ###
 
@@ -101,6 +100,6 @@
 
 <br clear="both">
 
-<img alt="pacman contribution graph" src="./pacman-contributions.svg" />
+<img alt="pacman contribution graph" src="./Pacman contributions.svg" />
 
 ###
