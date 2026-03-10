@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alexander Ross and I'm a Frontend Developer & Cybersecurity enthusiast, from Santo Domingo, Dominican Republic 🇩🇴</p>
+<p align="left">My name is Alexander Ross and I'm a Frontend Developer & Cybersecurity enthusiast, from Santo Domingo, Dominican Republic <span class="fi fi-do"></span></p>
 
 ###
 
