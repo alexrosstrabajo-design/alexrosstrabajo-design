@@ -100,6 +100,22 @@
 
 <br clear="both">
 
+<h2 align="left">My Webpage</h2>
+
+###
+
+<a href="https://alexanderross.vercel.app" target="_blank">
+  <img src="./icon.svg" height="120" alt="Alexander Ross webpage icon" />
+</a>
+
+<p align="left">
+  <a href="https://alexanderross.vercel.app" target="_blank">alexanderross.vercel.app</a>
+</p>
+
+###
+
+<br clear="both">
+
 <img alt="pacman contribution graph" src="./Pacman contributions.svg" />
 
 ###
