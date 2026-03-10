@@ -108,9 +108,11 @@
 
 ###
 
-<a href="https://alexanderross.vercel.app" target="_blank">
-  <img src="./icon.svg" height="120" alt="Alexander Ross webpage icon" />
-</a>
+<div align="center">
+  <a href="https://alexanderross.vercel.app" target="_blank">
+    <img src="./icon.svg" height="120" alt="Alexander Ross webpage icon" />
+  </a>
+</div>
 
 ###
 
