@@ -106,6 +106,9 @@
 ###
 
 <div align="left">
+  <a href="https://alexanderross.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Alexander Ross portfolio" />
+  </a>
   <a href="https://instagram.com/alexanderross2312" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
@@ -118,7 +121,7 @@
 
 <br clear="both">
 
-<h2 align="left">My Webpage</h2>
+<h2 align="left">My Webpage — <a href="https://alexanderross.vercel.app">alexanderross.vercel.app</a></h2>
 
 ###
 
